@@ -2,9 +2,7 @@
 
 用自然语言驱动 AI 在安卓真机上完成探索、定位、点击、断言，最后把操作固化成可回归的 TestNG 代码。零 API key、零视觉模型、零额外服务。
 
-> **状态：草稿（DRAFT）** — 正文内容已按实测数据写完，图片素材仍在补拍中。以下"待补"项完成后再转正：
-> - `docs/assets/06-trust.png`（连接器管理页 Trust 截图）
-> - `docs/assets/01~05` 五张关键帧的重新拍摄（现有版本可看，但排版与清晰度待优化）
+> **📘 教程全文**：[不写 XPath，让 AI 在真机上跑测试：Appium MCP 全流程实战](https://sunshine2176.github.io/2026/11/05/appium-mcp-ai-android-real-device/) — 含 13 次工具调用链、110 秒实测、裸调 vs SOP 对照实验与四个真实环境坑。本仓库是文中的实验代码与素材，`demo-testng/` 可直接 `mvn test` 复现。
 
 ## 目录结构
 
